@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78e95166-e002-4948-9695-92d84c1c1f68" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../desafios/checagemdepalindromo/Desafio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../desafios/classificandomatrizes/ClassificandoVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../desafios/classificandomatrizes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../desafios/fatorialdesajeitado/ConsoleApp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../desafios/fatorialdesajeitado/Fat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../desafios/fatorialdesajeitado/FatDe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../desafios/quadradoperfeito/Desafio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../desafios/validacaoparenteses/ValidaParenteses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lab-padroes-projeto-java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lab-padroes-projeto-java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lab-padroes-projeto-java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lab-padroes-projeto-java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-padroes-projeto-java-dio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/LazyHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/SingletonEager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/SingletonLazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/Comportamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ComportamentoAgressivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ComportamentoDefensivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ComportamentoNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/Robo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subsistema2cep/CepApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subsistemacrm/CrmService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../desafioPoo/dasafio-dio-poo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../desafioPoo/dasafio-dio-poo/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hp8ul2hAXRrAC2XiG0bJ0RbXXn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="lab-padroes-projeto-java-dio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78e95166-e002-4948-9695-92d84c1c1f68" name="Changes" comment="" />
+      <created>1668970890097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668970890097</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
