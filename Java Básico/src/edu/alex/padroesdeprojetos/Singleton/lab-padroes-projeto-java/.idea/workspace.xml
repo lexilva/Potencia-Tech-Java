@@ -5,37 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78e95166-e002-4948-9695-92d84c1c1f68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../desafios/checagemdepalindromo/Desafio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../desafios/classificandomatrizes/ClassificandoVetor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../desafios/classificandomatrizes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../desafios/fatorialdesajeitado/ConsoleApp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../desafios/fatorialdesajeitado/Fat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../desafios/fatorialdesajeitado/FatDe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../desafios/quadradoperfeito/Desafio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../desafios/validacaoparenteses/ValidaParenteses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../lab-padroes-projeto-java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../lab-padroes-projeto-java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../lab-padroes-projeto-java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../lab-padroes-projeto-java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-padroes-projeto-java-dio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/LazyHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/SingletonEager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/SingletonLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/Comportamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ComportamentoAgressivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ComportamentoDefensivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ComportamentoNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/Robo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subsistema2cep/CepApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subsistemacrm/CrmService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../../desafioPoo/dasafio-dio-poo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../desafioPoo/dasafio-dio-poo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../desafios/fatorialdesajeitado/ConsoleApp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../desafios/fatorialdesajeitado/ConsoleApp1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../desafios/fatorialdesajeitado/Fat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../desafios/fatorialdesajeitado/Fat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../desafios/fatorialdesajeitado/FatDe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../desafios/fatorialdesajeitado/FatDe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />

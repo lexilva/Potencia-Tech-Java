@@ -17,6 +17,7 @@ public class ConsoleApp1 {
         n--;
         while (n > 0) {
             //TODO: Calcule o valor do fatorial de "n", atrinbuindo o retorno a "r".
+            int aux = 0;
             if (cnt == 1) {
                 tmp *= n;
                 cnt++;
@@ -27,7 +28,7 @@ public class ConsoleApp1 {
                 tmp += n;
                 cnt = 0;
             } else if ((cnt == 0) && (n > 3)) {
-                tmp = tmp - n * (n - 1) / (n - 2);
+                aux = n * (n - 1) / (n - 2);
                 cnt = 3;
                 n -= 2;
             } else if (n >= 2) {

@@ -1,11 +1,12 @@
 package edu.alex.desafios.fatorialdesajeitado;
 
-import java.util.Scanner;
-
 public class FatDe {
     public static void main(String[] args) {
-        Scanner s = new Scanner( System.in );
-        System.out.println( fatorialDesajeitado( s.nextInt() ) );
+        //Scanner s = new Scanner( System.in );
+        // System.out.println( fatorialDesajeitado( s.nextInt() ) );
+        for (int i = 0; i < 30; i++) {
+            System.out.println( fatorialDesajeitado( i ) );
+        }
     }
 
     public static int fatorialDesajeitado(int N) {

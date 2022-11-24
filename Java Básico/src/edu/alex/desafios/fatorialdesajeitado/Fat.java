@@ -5,28 +5,59 @@ import java.util.Scanner;
 public class Fat {
     public static void main(String[] args) {
         Scanner scan = new Scanner( System.in );
-        int resultado = fatorialDesajeitado( scan.nextInt() );
-        System.out.println( resultado );
-    }
-
-    public static int fatorialDesajeitado(int n) {
-
+        int n = scan.nextInt();
         int res = 0;
         int cnt = 1;
         int tmp = n;
         n--;
         while (n > 0) {
-            if (cnt < 2) {
-                tmp = tmp * n / (n - 1) + (n - 2);
-                n -= 3;
-                cnt++;
-            } else {
-                tmp -= n * (n - 1) / (n - 2) + (n - 3);
-                n -= 3;
-                cnt = 1;
+            switch (cnt) {
+                case 1: {
+                    tmp *= n;
+                    //cnt++;
+                    n--;
+                    break;
+                }
+                case 2: {
+                    if (n != 0) {
+                        tmp /= n;
+                        //cnt++;
+                        n--;
+                        break;
+                    }
+                }
+                case 3: {
+                    tmp += n;
+                    // cnt = 0;
+                    n--;
+                    break;
+                }
+                case 0: {
+                    if (n - 2 > 0) {
+                        res = tmp;
+                        tmp = tmp - n * (n - 1) / (n - 2);
+                        res = tmp;
+                        cnt = 2;
+                        n -= 3;
+                        break;
+                    } else {
+                        tmp = (n == 1) ? tmp - n : tmp - n * (n - 1);
+                        res = tmp;
+                        //    tmp -= n;
+                        n = 0;
+                    }
+                    /*else {
+                        tmp = tmp - n * (n - 1);
+                        n = 0;
+                        res = tmp;
+                        break;
+                    }*/
+                }
             }
+            cnt = (cnt + 1) % 4;
         }
-        return tmp;
+        System.out.println( res );
     }
 
 }
+
